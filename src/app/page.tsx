@@ -17,7 +17,7 @@ export default function Home() {
           </CardHeader>
           <CardContent className="text-center">
             <p className="text-xl text-muted-foreground mb-6">
-              We're working hard to bring you the ultimate platform for discovering and joining exciting hackathons from
+              We&apos;re working hard to bring you the ultimate platform for discovering and joining exciting hackathons from
               around the world.
             </p>
             <div className="mb-8">
@@ -30,7 +30,7 @@ export default function Home() {
             <div className="mb-8">
               <h3 className="text-xl font-semibold mb-2">Want to contribute?</h3>
               <p className="text-muted-foreground mb-4">
-                We're open source! Check out our GitHub repository and help us build the future of hackathon discovery.
+                We&apos;re open source! Check out our GitHub repository and help us build the future of hackathon discovery.
               </p>
               <Button asChild>
                 <Link href="https://github.com/RaxoCoding/HackathonTime" target="_blank" rel="noopener noreferrer">
@@ -40,7 +40,7 @@ export default function Home() {
               </Button>
             </div>
             <p className="text-muted-foreground">
-              Stay tuned for updates! We'll be launching soon with a comprehensive list of hackathons, easy
+              Stay tuned for updates! We&apos;ll be launching soon with a comprehensive list of hackathons, easy
               registration, and more.
             </p>
           </CardContent>
